@@ -13,7 +13,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ### 📊 GitHub Stats
-![Shifaa's GitHub stats](https://github-readme-stats.vercel.app/api?shifaaKh28=shifaaKh28&show_icons=true&theme=radical)
+![Shifaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=shifaaKh28&show_icons=true&theme=radical)
 
 
 ### 🌐 Connect with Me
