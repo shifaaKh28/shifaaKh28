@@ -2,9 +2,6 @@
 
 ### About Me
 - 🎓 I’m a second-year Computer Science student at Ariel University.
-- 💬 Ask me about **C, C++, Python, SQL, Java** or any other programming-related topics!
-- 📫 How to reach me: **shifaakhatib28@gmail.com**
-
 ### 🛠️ Languages and Tools
 
 <p >
