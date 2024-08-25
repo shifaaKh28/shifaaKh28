@@ -22,7 +22,7 @@
 
 
 ### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/shifaa khatib)
+- [LinkedIn](https://www.linkedin.com/in/shifaakhatib)
 - 📫 Email: [shifaakhatib28@gmail.com](mailto:shifaakhatib28@gmail.com)
 
 
