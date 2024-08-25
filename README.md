@@ -15,7 +15,7 @@
 ### 📊 GitHub Stats
 ![Shifaa's GitHub stats](https://github-readme-stats.vercel.app/api?shifaaKh28=shifaaKh28&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shifaaKh28&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?shifaaKh28=shifaaKh28&layout=compact&theme=radical)
 
 
 ### 🌐 Connect with Me
