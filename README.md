@@ -6,11 +6,12 @@
 - 📫 How to reach me: **shifaakhatib28@gmail.com**
 
 ### 🛠️ Languages and Tools
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
+
 
 ### 📊 GitHub Stats
 
