@@ -7,13 +7,13 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
-</p>
+### 🛠️ Languages and Tools
+
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
 
 
 
