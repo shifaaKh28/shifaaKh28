@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Shifaa Khatib!
 
 ### About Me
-- 🎓 I’m a second-year Computer Science student at Ariel University.
+- 🎓 I’m a third-year Computer Science student at Ariel University.
 ### 🛠️ Languages and Tools
 
 <p >
@@ -19,7 +19,7 @@
 
 
 ### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/shifaakhatib)
+- [LinkedIn](https://www.linkedin.com/in/shifaa-khatib-86177b305)
 - 📫 Email: [shifaakhatib28@gmail.com](mailto:shifaakhatib28@gmail.com)
 
 
