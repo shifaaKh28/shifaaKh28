@@ -1,25 +1,48 @@
-## Hi there 👋, I'm Shifaa Khatib!
+👋 Hi, I'm Shifaa
 
-### About Me
-- 🎓 I’m a third-year Computer Science student at Ariel University.
-### 🛠️ Languages and Tools
+Computer Scientist with a strong foundation in software development and problem-solving, gained through academic projects and hands-on practice.
 
-<p >
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
-</p>
+---
 
+### What I do
 
-### 📊 GitHub Stats
+• Design and implement clean, maintainable code  
+• Solve complex problems using structured thinking  
+• Work with low-level and high-level systems  
+• Continuously learn and apply new technologies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shifaaKh28&layout=compact&theme=radical)
+---
 
+### Technical Background
 
-### 🌐 Connect with Me
+Languages:
+C++, Python, Java, C, SQL
+
+Core Knowledge:
+Data Structures & Algorithms  
+Object-Oriented Programming  
+Operating Systems  
+Networking  
+System-Level Programming  
+
+Additional Interests:
+Computer Vision  
+Machine Learning  
+AI-driven solutions
+
+---
+
+### Projects
+
+This GitHub showcases:
+• System-oriented and algorithmic projects  
+• C++ and Python implementations  
+• Practical work focused on performance, correctness, and design  
+
+Each repository reflects real problem-solving and technical depth.
+
+---
+
+📫 Contact  
 - [LinkedIn](https://www.linkedin.com/in/shifaa-khatib-86177b305)
 - 📫 Email: [shifaakhatib28@gmail.com](mailto:shifaakhatib28@gmail.com)
-
-
